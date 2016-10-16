@@ -1,0 +1,13 @@
+<DOCTYPE html>
+
+<h1>Emails and phone numbers</h1>
+
+<form action="/rentalAgreement" method = 'post'>
+	{% for i in range(0,n)%}
+	<input type="text" name = "name" placeholder="FirstName LastName"><br>
+	<input type="text" name = "phonenumber" placeholder="phone number"><br>
+	<input type="text" name = "email" placeholder="email"><br>
+	<br>
+	{% endfor %}
+	<input type="submit">
+</form>

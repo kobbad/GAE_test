@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: braintree
+Version: 3.30.0
+Summary: Braintree Python Library
+Home-page: https://developers.braintreepayments.com/python/sdk/server/overview
+Author: Braintree
+Author-email: support@braintreepayments.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
